@@ -1,6 +1,6 @@
 WITH
 survey AS (
-SELECT * FROM `graphite-dynamo-432313-f5.dbt_db_bala.annual-enterprise-survey01`),
+SELECT * FROM `graphite-dynamo-432313-f5.dbt_db_bala.annual-enterprise-survey02`),
 
 ae AS ( 
 SELECT 
