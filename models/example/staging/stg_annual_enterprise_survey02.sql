@@ -1,6 +1,6 @@
 WITH
 survey AS (
-SELECT * FROM `cloudside-academy.dbt_sample_data.annual-enterprise-survey02`),
+SELECT * FROM `graphite-dynamo-432313-f5.dbt_db_bala.annual-enterprise-survey02`),
 
 n AS ( 
 SELECT 
